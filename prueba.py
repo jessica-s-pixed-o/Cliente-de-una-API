@@ -2,6 +2,9 @@ import requests
 from pprint import pprint
 from tkinter import *
 
+#Alumno: Gómez Gaona Jessica Janet
+#Despliegue de aplicaciones
+
 max_results = 10
 # Crear la ventana
 ventana_principal = Tk()
